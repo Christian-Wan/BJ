@@ -1,11 +1,41 @@
 body {
-
+    background-image: url("images/table.png");
+    background-size: 100%, 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
+
+
+p {
+    color: aliceblue;
+}
+
 
 h1 {
     color: goldenrod;
 }
 
+
+button {
+    background-color: goldenrod;
+    width: 150px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+
 #message-el {
-    
+   
+}
+
+
+#cards-el {
+
+
+}
+
+
+#sum-el {
+
+
 }
